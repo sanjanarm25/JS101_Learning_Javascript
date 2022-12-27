@@ -1,2 +1,2 @@
 # JS101_Learning_Javascript
-*its a git assignment 1 .
+* its a git assignment 1 .
